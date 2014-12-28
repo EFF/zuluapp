@@ -1,0 +1,17 @@
+<div id="professional" class="text-center">
+	<img class="img-circle" ng-src="{{currentRatedProfessional.pictureUrl}}">
+	<h1>{{currentRatedProfessional.name}}</h1>
+	<p class="profession">{{currentRatedProfessional.profession}}</p>
+	<div class="row text-center rating-box">
+		<h4>Quelle note lui donnes-tu ?</h4>
+		<div class="col-sm-6 col-sm-offset-3">
+			<img src="assets/images/bored.svg">
+			<div class="btn-group" role="group">
+				<button class="btn btn-default" ng-repeat="rating in [1,2,3,4,5]" ng-click="rate(rating, $event)">&nbsp;{{rating}}&nbsp;</button>
+			</div>
+			<img src="assets/images/excited.svg">
+		</div>
+	</div>
+</div>
+	
+
