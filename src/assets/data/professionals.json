@@ -592,5 +592,707 @@
     "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/1ee/34b/344d5df.jpg",
     "name":"Marie-Josée Fleury ",
     "profession":"Co-fondatrice et Designer chez Horace Jewelry"
+  },
+  {
+    "ID":63640518,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/1/005/09f/1c0/2a94404.jpg",
+    "name":"Rena Salailis",
+    "profession":"Conseillère en acquisition de talents (Fondatrice d'Aléanza)"
+  },
+  {
+    "ID":156440498,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/095/3c4/112189a.jpg",
+    "name":"Annabelle Lépine",
+    "profession":"Adjointe en acquisition de talents at Aléanza"
+  },
+  {
+    "ID":133832349,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/08e/14b/3638d7e.jpg",
+    "name":"Maxime Paquette",
+    "profession":"Microbiologiste et finissante à la maîtrise en micro"
+  },
+  {
+    "ID":222328689,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/1e7/3b8/212c8fd.jpg",
+    "name":"Laurence Des Ormeaux",
+    "profession":"Medical student at Université de Sherbrooke"
+  },
+  {
+    "ID":310164631,
+    "pictureUrl":"https://media.licdn.com/media/p/6/005/030/0cf/2d31e25.jpg",
+    "name":"Maxime Lavallière ",
+    "profession":"Dentiste chez Centre dentaire Landry"
+  },
+  {
+    "ID":63929001,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/08e/2d4/0e27591.jpg",
+    "name":"Emmy Grand-Maison",
+    "profession":"Conseillère en communication, Commission scolaire Marguerite-Bourgeoys"
+  },
+  {
+    "ID":51746985,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/18f/182/270e2fc.jpg",
+    "name":"Lucie Beaulieu ",
+    "profession":"Conseillère senior, Communications RH, Gaz Métro"
+  },
+  {
+    "ID":18211302,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/4/005/096/1f8/068915e.jpg",
+    "name":"Chloé Teasdale",
+    "profession":"Recherche de cadres | Headhunting at Groupe Millésime"
+  },
+  {
+    "ID":114199080,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/040/132/0850cc6.jpg",
+    "name":"Josiane Niquette ",
+    "profession":"Conseillère conditions et relations de travail chez Hydro Québec"
+  },
+  {
+    "ID":78947809,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1cd/2d7/29e63d4.jpg",
+    "name":"Catherine Bédard ",
+    "profession":"Vice-présidente Ressources humaines chez L'Oréal Canada"
+  },
+  {
+    "ID":86328387,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/179/36e/0d04a25.jpg",
+    "name":"Émilie Rondeau ",
+    "profession":"Conseillère en ressources humaines"
+  },
+  {
+    "ID":166532542,
+    "pictureUrl":"https://media.licdn.com/media/p/4/000/17b/2d8/3e0503d.jpg",
+    "name":"Amélie Carbonneau",
+    "profession":"Conseillère ressources humaines"
+  },
+  {
+    "ID":182637810,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/000/1b5/198/1d444c1.jpg",
+    "name":"Noémie Roy ",
+    "profession":"Conseillère en ressources humaines / Human Resources Advisor chez Groupe AGF / AGF Group"
+  },
+  {
+    "ID":56459529,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/022/392/337efcb.jpg",
+    "name":"Analia Ayula ",
+    "profession":"Conseillère en Ressources Humaines at Mailhot Industries"
+  },
+  {
+    "ID":42356353,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/6/005/03d/188/10c8400.jpg",
+    "name":"Zoe Standard ",
+    "profession":"Business Development Manager at MPA Projects"
+  },
+  {
+    "ID":105367488,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/098/3d8/3af0bd7.jpg",
+    "name":"Felicity Whelan",
+    "profession":"Online Video Content Production & Sports Presenter & Professional Master of Ceremonies"
+  },
+  {
+    "ID":42194908,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/09c/332/29ca0b7.jpg",
+    "name":"Gabrielle Kennedy",
+    "profession":"Event Manager at Unique International Event Solutions"
+  },
+  {
+    "ID":13812693,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/7/000/278/0cf/081f5fa.jpg",
+    "name":"Sue Di Chio ",
+    "profession":"Fashion Recruitment Specialist"
+  },
+  {
+    "ID":168038889,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/000/1dc/2d5/2a3f78c.jpg",
+    "name":"Pamela Bertrand ",
+    "profession":"Diabetes care representative at Roche"
+  },
+  {
+    "ID":103458943,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/09a/1b8/1b75113.jpg",
+    "name":"Katie Bieber ",
+    "profession":"Technical Recruiter at Finney Taylor"
+  },
+  {
+    "ID":104299561,
+    "pictureUrl":"https://media.licdn.com/media/p/2/005/09c/23e/38864b9.jpg",
+    "name":"Elizabeth Hyland ",
+    "profession":"IT Recruiter at TEKsystems"
+  },
+  {
+    "ID":122961619,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/176/24f/34e29a2.jpg",
+    "name":"Alexa Roytek",
+    "profession":"Account Manager at TEKsystems"
+  },
+  {
+    "ID":69565419,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/061/3e0/15f3945.jpg",
+    "name":"Justine Petrucci ",
+    "profession":"Social Media Specialist at G/O Digital"
+  },
+  {
+    "ID":43098590,
+    "pictureUrl":"https://media.licdn.com/media/p/4/000/13b/2b2/1ad4998.jpg",
+    "name":"amanda Hammond ",
+    "profession":"Sales Representative at Otis Canada, Inc."
+  },
+  {
+    "ID":197536970,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/08b/06f/235cda0.jpg",
+    "name":"Sarah Labonté ",
+    "profession":"Market Development Manager at Coca-Cola Company"
+  },
+  {
+    "ID":48412281,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/091/1b7/0f77f44.jpg",
+    "name":"Chloé Gingras",
+    "profession":"Première Directrice de comptes, RBC Banque Royale"
+  },
+  {
+    "ID":142996455,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/018/133/09bf27e.jpg",
+    "name":"Stéphanie Lauzon ",
+    "profession":"Personal Financial Advisor"
+  },
+  {
+    "ID":163371093,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/09c/012/1f4bb4e.jpg",
+    "name":"Claudianne Boulay ",
+    "profession":"Conseillère, Stratégie et gestion de portefeuille at Banque Nationale"
+  },
+  {
+    "ID":54750219,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/07d/23b/0d22873.jpg",
+    "name":"Geneviève Langlois ",
+    "profession":"Reporter pour RDS & RIS chez RDS - RIS"
+  },
+  {
+    "ID":20809259,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/7/000/228/218/1202082.jpg",
+    "name":"Geneviève Tremblay ",
+    "profession":"GenJoue / Computer Software"
+  },
+  {
+    "ID":51579229,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/087/312/1b548c8.jpg",
+    "name":"Mariana Leon ",
+    "profession":"Clinical Dental Account Manager"
+  },
+  {
+    "ID":265813019,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/081/00b/2651207.jpg",
+    "name":"Michele Booth ",
+    "profession":"Account Manager at Citadel Premium Design"
+  },
+  {
+    "ID":66085046,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/050/0e4/0163c76.jpg",
+    "name":"Kristina Patton ",
+    "profession":"Dental Sales Professional at Heraeus"
+  },
+  {
+    "ID":93117077,
+    "pictureUrl":"https://media.licdn.com/media/p/2/000/108/1f0/3ec3c53.jpg",
+    "name":"Ashley Brust ",
+    "profession":"Marketing Manager, Specialty Sales at Medline Industries, Inc."
+  },
+  {
+    "ID":40880671,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/027/331/1898f7f.jpg",
+    "name":"Mariola Bartkowiak ",
+    "profession":"Environmental Casework Specialist at The Planning Inspectorate"
+  },
+  {
+    "ID":44892650,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/0fb/370/14e8381.jpg",
+    "name":"Miracles Espinal ",
+    "profession":"HOSTESS/MODEL"
+  },
+  {
+    "ID":40402443,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/058/1ab/0b61d2f.jpg",
+    "name":"Jennifer Tremblay ",
+    "profession":"Head of Sales at TriAct Canada Marketplace LP"
+  },
+  {
+    "ID":56298628,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/07f/38e/2d4d10d.jpg",
+    "name":"Jennifer Diana lee",
+    "profession":"nvestment Associate at Ontario Teachers' Pension Plan"
+  },
+  {
+    "ID":152590501,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/010/0c4/1ce63d3.jpg",
+    "name":"Érica Lebrun-Gauvin ",
+    "profession":"Guide-Parc Naturaliste chez Société des établissements de plein air du Québec"
+  },
+  {
+    "ID":154517984,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/07c/166/0494014.jpg",
+    "name":"Delphine Leduc ",
+    "profession":"Chargée de projets chez Sacrée Soirée et Service, Cuisine & Cie"
+  },
+  {
+    "ID":228760335,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1f7/113/033a9e2.jpg",
+    "name":"Carolin Lardinois ",
+    "profession":"En poste (secteur : Hôpitaux et centres de soins)"
+  },
+  {
+    "ID":229988263,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/1fc/087/1e99c9d.jpg",
+    "name":"Chritisane Verhaegen ",
+    "profession":"Superviseure de la restauration et banquet chez Delta Hotels and Resorts"
+  },
+  {
+    "ID":94746143,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/091/037/2437391.jpg",
+    "name":"Léa Simard ",
+    "profession":"Agent de bord chez Jazz Aviation LP"
+  },
+  {
+    "ID":244557714,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/068/1cc/2c187ba.jpg",
+    "name":"Sarah-Anne Beaulne ",
+    "profession":"Diplômée en planification d'événement"
+  },
+  {
+    "ID":233383718,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/0a3/05f/0c241a4.jpg",
+    "name":"Geneviève Tremblay ",
+    "profession":"Assistante Média, Routage & Productivité chez Carat"
+  },
+  {
+    "ID":203054750,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/03d/3e4/1cafc17.jpg",
+    "name":"Patricia Raby ",
+    "profession":"Public relation and communication "
+  },
+  {
+    "ID":165923364,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/095/1ad/0b5b9d2.jpg",
+    "name":"Alexanne Laplante ",
+    "profession":"Chargée de projet à l'Agence Bunji"
+  },
+  {
+    "ID":210472667,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/000/1b4/339/3007045.jpg",
+    "name":"ève Chamberland",
+    "profession":"Étudiante en communication marketing | Université de Sherbrooke"
+  },
+  {
+    "ID":191336719,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/035/104/38eaa4b.jpg",
+    "name":"Jade Bérubé Morin ",
+    "profession":"Stratège Marketing Client"
+  },
+  {
+    "ID":183264581,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/19b/0ef/323fb6d.jpg",
+    "name":"Justine Voyer ",
+    "profession":"Spécialiste des médias sociaux et communication chez Ludis Media"
+  },
+  {
+    "ID":144769777,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/091/3b8/13268cd.jpg",
+    "name":"Sophie Côté-Bédard ",
+    "profession":"Gestionnaire de campagne | Média Numérique chez Adviso"
+  },
+  {
+    "ID":112070757,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/029/3d1/267c125.jpg",
+    "name":"Justine Authier",
+    "profession":"Coordinator | Digital Media"
+  },
+  {
+    "ID":113202228,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/15c/001/3c541f1.jpg",
+    "name":"Jany-Ève Saucier ",
+    "profession":"Diplômée des HEC Montréal"
+  },
+  {
+    "ID":146104345,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/263/173/24243a5.jpg",
+    "name":"Karine Hettel ",
+    "profession":"Stratège numérique at Touché !"
+  },
+  {
+    "ID":203185529,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/010/119/3a7025d.jpg",
+    "name":"Emily Malloy-Manuel ",
+    "profession":"Digital Media Director at Touché!"
+  },
+  {
+    "ID":193790949,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/17f/2ca/25aa646.jpg",
+    "name":"Catherine Vézina ",
+    "profession":"Stratège Média 360 at Touché ! PHD"
+  },
+  {
+    "ID":141221546,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/08b/11e/32d186f.jpg",
+    "name":"Joanie Bellerose ",
+    "profession":"Analyste à la rémunération des cadres supérieurs at Towers Watson"
+  },
+  {
+    "ID":117122175,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/015/052/37fbecd.jpg",
+    "name":"Florence Routhier Caron ",
+    "profession":"Conseillère, Ressources humaines at Lavery, de Billy"
+  },
+  {
+    "ID":88937317,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/067/0c1/1c3fd4f.jpg",
+    "name":"Mélissa Morand ",
+    "profession":"Professional Development Coordinator chez Lavery, de Billy"
+  },
+  {
+    "ID":190403315,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/000/176/255/2516906.jpg",
+    "name":"Catherine Lacrois ",
+    "profession":"Analyste en rėmunėration et avantages sociaux, Ressources humaines chez Industrielle Alliance"
+  },
+  {
+    "ID":71760511,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/266/15a/2e84fdd.jpg",
+    "name":"Andrée-anne Tanguay ",
+    "profession":"Analyste de marché chez Port de Québec"
+  },
+  {
+    "ID":169802453,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/078/005/3862eae.jpg",
+    "name":"Laurence Massicotte ",
+    "profession":"Coordonnatrice aux croisières internationales"
+  },
+  {
+    "ID":380004085,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/094/209/2e66300.jpg",
+    "name":"Geneviève Hébert ",
+    "profession":"Étudiant(e) (École des sciences de la gestion (ESG UQAM))"
+  },
+  {
+    "ID":104626001,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/218/3df/184f748.jpg",
+    "name":"Caroline Guérard ",
+    "profession":"Chargée de projets chez Groupe Régis Côté"
+  },
+  {
+    "ID":59503848,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/000/1da/23a/1d5020e.jpg",
+    "name":"Maryse Vézina ",
+    "profession":"Representante L'Oréal Canada division Biotherm-Clarisonic"
+  },
+  {
+    "ID":154549359,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/114/1e7/2312855.jpg",
+    "name":"Audrey Vézine ",
+    "profession":"Representante chez getme.pro"
+  },
+  {
+    "ID":234873006,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/000/20f/1ff/21043bd.jpg",
+    "name":"Patricia Duvan ",
+    "profession":"Directrice chez Bijouterie Garance"
+  },
+  {
+    "ID":52885809,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/10e/31e/3ddf0db.jpg",
+    "name":"Virginie Roussin ",
+    "profession":"Location commerciale et résidentielle et Développement des affaires Société immobilière Bruno Roussin inc."
+  },
+  {
+    "ID":79170073,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/191/12d/350ed8b.jpg",
+    "name":"Jeanne S. Hwang",
+    "profession":"National Business Market- Account Manager"
+  },
+  {
+    "ID":108177142,
+    "pictureUrl":"https://media.licdn.com/media/p/3/000/0a5/299/2ea1539.jpg",
+    "name":"Tee Marek ",
+    "profession":"Communications & PR Director at Young Drivers of Canada"
+  },
+  {
+    "ID":69405181,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/055/00a/157c2db.jpg",
+    "name":"Candis Ransom",
+    "profession":"Development Associate at The Anderson Media Group"
+  },
+  {
+    "ID":146727306,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/005/09b/3f7/0578fca.jpg",
+    "name":"Justine Leblanc ",
+    "profession":"Pigiste chez TC Media"
+  },
+  {
+    "ID":138671866,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/2b3/275/1933e30.jpg",
+    "name":"Thalie st-Cyr ",
+    "profession":"Agente communication marketing at Nordik Spa-Nature"
+  },
+  {
+    "ID":9759168,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1b7/1c1/18dc1d3.jpg",
+    "name":"Caroline Malo ",
+    "profession":"Directrice, Marketing, communications et ventes at Tourisme Outaouais"
+  },
+  {
+    "ID":109333161,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/081/00d/255515f.jpg",
+    "name":"Claudine Bourassa ",
+    "profession":"Conseillère en communication"
+  },
+  {
+    "ID":266092997,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/000/290/332/0337f43.jpg",
+    "name":"Geneviève Kowalski ",
+    "profession":"Agente de communication et marketing at Mercedes-Benz Gatineau"
+  },
+  {
+    "ID":175268148,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/053/270/315d4a9.jpg",
+    "name":"Marjorie Valée ",
+    "profession":"Animatrice, Chroniqueuse (radio et télé), Communicatrice, Attachée de presse, Rédactrice, etc."
+  },
+  {
+    "ID":110967132,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/098/169/09b6607.jpg",
+    "name":"Sophie Godin ",
+    "profession":"Adjointe admin. aux ventes chez Bell Média"
+  },
+  {
+    "ID":70931797,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/0b8/1af/2416de0.jpg",
+    "name":"Mercedes Mafara ",
+    "profession":"CEO at SafeCharge"
+  },
+  {
+    "ID":36145101,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/22d/0aa/38713ea.jpg",
+    "name":"Kristin Salerno ",
+    "profession":"Director, Account Services/Project Services"
+  },
+  {
+    "ID":32398654,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/11c/061/12360ba.jpg",
+    "name":"Kate Morgan ",
+    "profession":"Field Marketing Manager at Ploom"
+  },
+  {
+    "ID":94464266,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/080/26a/18cb713.jpg",
+    "name":"Chloe Lewis ",
+    "profession":"Fisher Investments Institutional Group Program Manager- Global Expansion"
+  },
+  {
+    "ID":151369913,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/2/000/236/150/180606f.jpg",
+    "name":"Annette Rincon ",
+    "profession":"Corporate Recruiter at Fisher Investments"
+  },
+  {
+    "ID":145438727,
+    "pictureUrl":"https://media.licdn.com/media/p/4/000/16e/185/2832f5a.jpg",
+    "name":"Sophie Boucher ",
+    "profession":"Purchaser at Ville de Boucherville"
+  },
+  {
+    "ID":220117715,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/03a/206/038c474.jpg",
+    "name":"Kydee Webber ",
+    "profession":"Writer, Editor at K Com"
+  },
+  {
+    "ID":133783216,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/7/005/087/051/3900ea9.jpg",
+    "name":"Meghan McEwin ",
+    "profession":"Diversity Awareness Coordinator, Grants, Teacher"
+  },
+  {
+    "ID":134758244,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/000/224/138/01f03bc.jpg",
+    "name":"Geneviève Dufour ",
+    "profession":"Directrice des ventes et marketing Marriott Hotel"
+  },
+  {
+    "ID":108043589,
+    "pictureUrl":"https://media.licdn.com/media/p/3/000/1c2/1f1/27147ea.jpg",
+    "name":"Alexandra Renaud ",
+    "profession":"Associée et Directrice Gestion et Développement des affaires JF Fortier construction"
+  },
+  {
+    "ID":185610430,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/000/1f9/208/04d8e42.jpg",
+    "name":"Johannie Fortin ",
+    "profession":"Animatrice WKND 91,9 Québec chez Leclerc Communication Inc."
+  },
+  {
+    "ID":122426391,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/000/0f9/399/2753992.jpg",
+    "name":"Marie -Christine Champagne ",
+    "profession":"Animatrice radio NRJ 98.9 Québec"
+  },
+  {
+    "ID":236043800,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/3/005/017/297/0767987.jpg",
+    "name":"Caroline Dupont ",
+    "profession":"Porte-parole et adjointe exécutive à la Direction chez Régie de l'assurance maladie du Québec"
+  },
+  {
+    "ID":98074466,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/2c4/0b6/3fbed2a.jpg",
+    "name":"Michèle Jalbert ",
+    "profession":"Propriétaire de l'Institut Divas & cie, Divasenligne.com et M Création d'événements"
+  },
+  {
+    "ID":23398820,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/09d/36a/0d9533f.jpg",
+    "name":"Josée Pelletier ",
+    "profession":"Infirmière auxiliaire "
+  },
+  {
+    "ID":108953146,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/0a1/3d7/1e1e073.jpg",
+    "name":"Giulia Marone ",
+    "profession":"Manager at G.Tonino"
+  },
+  {
+    "ID":27335384,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/08f/220/2a4faa3.jpg",
+    "name":"Jilian Tracey ",
+    "profession":"Owner at Tracey Brooke Public Relations"
+  },
+  {
+    "ID":195470210,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/005/00b/034/1a194fd.jpg",
+    "name":"Audrey Jade Bourque ",
+    "profession":"Vérificatrice adjointe, Deloitte"
+  },
+  {
+    "ID":83933059,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/06b/11b/324f6b8.jpg",
+    "name":"Véronique Girard ",
+    "profession":"Conseillère Acquisition de talents chez Hydro Québec"
+  },
+  {
+    "ID":157764759,
+    "pictureUrl":"https://media.licdn.com/media/p/3/000/1ff/092/323752f.jpg",
+    "name":"Gabrielle Charland ",
+    "profession":"Recherchiste en acquisition de talents chez SNC-Lavalin"
+  },
+  {
+    "ID":182502545,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_240_240/p/2/005/0a1/05e/1423c06.jpg",
+    "name":"Maude Royer ",
+    "profession":"Recherchiste, acquisition de talents/Sourcing Specialist chez SNC-Lavalin"
+  },
+  {
+    "ID":315389248,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/038/068/3ccf169.jpg",
+    "name":"Claudia Anderson ",
+    "profession":"Senior Recruitment Specialist at undisclosed"
+  },
+  {
+    "ID":177381534,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/208/389/0cd4bfc.jpg",
+    "name":"Louise Andree Genest ",
+    "profession":"Conseillère en communication régionale chez Ministère de l'Agriculture, des Pêcheries et de l'Alimentation du Québec."
+  },
+  {
+    "ID":215460213,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/7/000/1f1/356/3bc9ecc.jpg",
+    "name":"Tracy White ",
+    "profession":"Bartender at 281 nightclub "
+  },
+  {
+    "ID":181462986,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/4/005/075/18c/304aac6.jpg",
+    "name":"Océane Bruwier Périé ",
+    "profession":"Adjointe aux attachés politiques au cabinet de la Ministre de la Culture et des Communications"
+  },
+  {
+    "ID":214700288,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/000/1ee/3ae/1576b57.jpg",
+    "name":"Zoé Richmond ",
+    "profession":"Social Media and Advertising"
+  },
+  {
+    "ID":127957888,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/0d1/059/13421bc.jpg",
+    "name":"Sam Cook ",
+    "profession":"Voiceover Artist, Radio Personality, TV Host & Program Coordinator of Radio Broadcasting at Mohawk College."
+  },
+  {
+    "ID":258369444,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/26c/307/342bbb4.jpg",
+    "name":"Karen Smith ",
+    "profession":"web erotic model"
+  },
+  {
+    "ID":173919683,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/000/1cb/0af/25ea511.jpg",
+    "name":"Liana Carbone ",
+    "profession":"Ecommerce Merchandiser at DAVIDsTEA"
+  },
+  {
+    "ID":133644965,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/059/3fd/09f9be5.jpg",
+    "name":"Claudia Bérubé ",
+    "profession":"Avocate chez Lavery, de Billy"
+  },
+  {
+    "ID":257999589,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/005/03c/3d5/0e952f1.jpg",
+    "name":"Chloé Fauchon ",
+    "profession":"Avocate chez Lavery, de Billy"
+  },
+  {
+    "ID":209393140,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/6/005/047/018/3079c5d.jpg",
+    "name":"Krystel Durocher ",
+    "profession":"Directrice principale / Senior manager BDC"
+  },
+  {
+    "ID":195454363,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/019/29f/1f61844.jpg",
+    "name":"Laurence delisle ",
+    "profession":"Experiential Marketing Project Coordinator"
+  },
+  {
+    "ID":155732994,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/19c/299/292d2fb.jpg",
+    "name":"Angela Georgieva ",
+    "profession":"Marketing Expert at MRP International"
+  },
+  {
+    "ID":75028678,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/8/005/097/206/2b5e144.jpg",
+    "name":"Noelle Freeman ",
+    "profession":"CEO at Digital Media Strategy, LLC"
+  },
+  {
+    "ID":54802977,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/21e/3e3/217c48a.jpg",
+    "name":"Dee Bailey ",
+    "profession":"Fashion Buyer at Tiny Devotions Inc."
+  },
+  {
+    "ID":70274156,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/2/000/052/0ea/1041040.jpg",
+    "name":"Jamison Lee ",
+    "profession":"Account Supervisor at Rauxa"
+  },
+  {
+    "ID":57649858,
+    "pictureUrl":"https://media.licdn.com/media/p/2/000/0c5/29e/20c2652.jpg",
+    "name":"Anna Saucier ",
+    "profession":"Executive Assistant at CyberCoders"
+  },
+  {
+    "ID":71108186,
+    "pictureUrl":"https://media.licdn.com/mpr/mpr/shrink_200_200/p/1/000/129/3c8/288a401.jpg",
+    "name":"Kelsey Conklin ",
+    "profession":"Entertainment Coordinator - Current Programming at NBCUniversal, Inc."
   }
 ]

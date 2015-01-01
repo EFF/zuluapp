@@ -80,7 +80,7 @@ module.exports = /*@ngInject*/
   	$scope.rate = function(rating, event){
   		event.currentTarget.blur();
   		angular.element('#professional').addClass('animated fadeOutDown');
-  		// keenClient.addEvent('rating', {professionalID: $scope.currentRatedProfessional.ID, rating:rating});
+  		keenClient.addEvent('rating', {professionalID: $scope.currentRatedProfessional.ID, rating:rating});
       addToRated($scope.currentRatedProfessional.ID, rating);
       getNextView()
   	};
@@ -88,7 +88,6 @@ module.exports = /*@ngInject*/
   	$http.get('assets/data/professionals.json')
   	.success(function(data){
 		professionals = data;
-    // getNextProfesionnal()
     displayNextProfessional(1);
 	});
   };
